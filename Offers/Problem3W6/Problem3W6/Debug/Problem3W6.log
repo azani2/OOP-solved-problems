@@ -1,0 +1,3 @@
+﻿  Problem3W6.cpp
+C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Problem3W6\Problem3W6\Problem3W6.cpp(24,21): warning C4244: '=': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  Problem3W6.vcxproj -> C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Problem3W6\Debug\Problem3W6.exe

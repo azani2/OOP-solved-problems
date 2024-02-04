@@ -1,0 +1,6 @@
+﻿  Shapes.cpp
+C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Problem11\Problem11\Shapes.cpp(66,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Problem11\Problem11\Shapes.cpp(78,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+  Generating Code...
+  Problem11.vcxproj -> C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Problem11\Debug\Problem11.exe

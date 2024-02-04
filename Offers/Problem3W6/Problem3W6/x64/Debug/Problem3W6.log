@@ -1,0 +1,4 @@
+﻿  Problem3W6.cpp
+C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Offers\Problem3W6\Problem3W6\Problem3W6.cpp(30,55): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Offers\Problem3W6\Problem3W6\Problem3W6.cpp(73,60): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Problem3W6.vcxproj -> C:\Users\Dell\Desktop\uni\kk1summer\Pract2\Offers\Problem3W6\x64\Debug\Problem3W6.exe
